@@ -1,16 +1,19 @@
-## Hi there 👋
+### BOAS VINDAS AO MEU PERFIL 🐱‍👤
 
-<!--
-**Krengs/Krengs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu nome é Bruno
 
-Here are some ideas to get you started:
+* Estou estudando na alura
+* Estou me desenvolvendo na linguagem Java Script
+* Utilizo esse espaço para minha organização e compartilhamento dos meus projetos desenvolvidos
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Você entrar em contato comigo :
+
+bs2772476@gmail.com
+
+@kreng.bubu
+
+
+![](https://i0.wp.com/ultrawolvesunderthefullmoon.blog/wp-content/uploads/2019/01/mugen-samurai-champloo-gif-9.gif?fit=500%2C281&ssl=1&w=640)
+
+
+
